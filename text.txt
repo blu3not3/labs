@@ -1,0 +1,17 @@
+The first electronic computers were monstrous contraptions,
+  filling                  several                rooms,
+  consuming as much electricity as a good-size factory,
+  and costing millions of 1940s dollars
+  (but with the computing power of a modern hand-held calculator).
+The programmers who used these machines believed that the computer's time
+  was more valuable than theirs.
+They programmed in machine language.
+Machine language is the sequence of bits that directly controls a processor,
+  causing it to add, compare, move data from one place to another,
+  and so forth at appropriate times.
+Specifying programs at this level of detail is an enormously tedious task.
+The following program calculates the greatest common divisor (GCD)
+  of two integers, using Euclid's algorithm.
+It is written in machine language,
+  expressed here as hexadecimal (base 16) numbers,
+  for the MIPS R4000 processor.
